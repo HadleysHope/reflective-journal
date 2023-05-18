@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-18T15:41:54+12:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Reflective Journal</title><subtitle>Reflective journal for my Final Project for Software Development.</subtitle><entry><title type="html">Entry</title><link href="http://localhost:4000/2023/05/17/entry.html" rel="alternate" type="text/html" title="Entry" /><published>2023-05-17T00:00:00+12:00</published><updated>2023-05-17T00:00:00+12:00</updated><id>http://localhost:4000/2023/05/17/entry</id><content type="html" xml:base="http://localhost:4000/2023/05/17/entry.html"><![CDATA[<h1 id="reflective-journal---software-development-final-project">Reflective Journal - Software Development Final Project</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p>Work Day scheduled with:
+9am- Scrum
+930am- Class
+Workday
+4pm- Scrum</p>
+
+<h2 id="project-description">Project Description</h2>
+
+<p>Team DDT - MERN Stack Web App for Solar Panel Company focusing on a Stock Inventory system.</p>
+
+<h2 id="progress-made">Progress Made</h2>
+<ul>
+  <li>Reviewed business requirements and added context diagram.</li>
+  <li>Class- Given some more resources and discussed boilerplate</li>
+  <li>Came up with Elicitation for next client meeting to acquire a full knowledge of the business and their requirements.</li>
+</ul>
+
+<h2 id="challenges-faced">Challenges Faced</h2>
+
+<ul>
+  <li>Scrums to be led by Mariano, intrepedation the plan was followed. It was exemplary so gives confidence in our method for the rest of project.</li>
+  <li>Felt like a wasted day as we are kind of waiting on client to complete our proposal that we are eager to do to start the development.</li>
+  <li>In class was told about boilerplate bit off putting as wasn’t in the plan nor had any experience with, so something to research and learn.</li>
+</ul>
+
+<h2 id="next-steps">Next Steps</h2>
+
+<ul>
+  <li>Wait on Client Meeting to organize our kick off meeting</li>
+  <li>Research MERN stack</li>
+  <li>Watch class links</li>
+  <li>Set up Planning Document</li>
+</ul>
+
+<p>Super pleased Scrums went well with someone else as scrum master. Though the rest of the day felt wasted.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Reflective Journal - Software Development Final Project]]></summary></entry><entry><title type="html">Entry</title><link href="http://localhost:4000/2023/05/15/entry.html" rel="alternate" type="text/html" title="Entry" /><published>2023-05-15T00:00:00+12:00</published><updated>2023-05-15T00:00:00+12:00</updated><id>http://localhost:4000/2023/05/15/entry</id><content type="html" xml:base="http://localhost:4000/2023/05/15/entry.html"><![CDATA[<h1 id="reflective-journal---software-development-final-project">Reflective Journal - Software Development Final Project</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p>First day of action today following our schedule.</p>
+<ul>
+  <li>9am Scrum Meeting - Planning</li>
+  <li>Work Day</li>
+  <li>4am Scrum Meeting - Reflection + Planning</li>
+</ul>
+
+<h2 id="project-description">Project Description</h2>
+
+<p>Team DDT - MERN Stack Web App for Solar Panel Company focusing on a Stock Inventory system.</p>
+
+<h2 id="progress-made">Progress Made</h2>
+<ul>
+  <li>Ran Morning Scrum and created plan for the day</li>
+  <li>Ran Afternoon Scrum reflecting on what we accomplished and what is needed for next day, which will be Wednesday.</li>
+  <li>Finished Contract</li>
+  <li>Discussed Client Meeting</li>
+  <li>Made a very basic wireframe to have idea of user interface</li>
+</ul>
+
+<h2 id="challenges-faced">Challenges Faced</h2>
+
+<ul>
+  <li>The first scrum meeting went quite long but doubled up as discussion of the project</li>
+</ul>
+
+<h2 id="next-steps">Next Steps</h2>
+
+<ul>
+  <li>Waiting on Mariano Business Requirements ahead of next scrum on Wednesday.</li>
+</ul>
+
+<p>Second Scrum went perfect, short about 10mins discussed what done and what next, using Kanban.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Reflective Journal - Software Development Final Project]]></summary></entry><entry><title type="html">Entry</title><link href="http://localhost:4000/2023/05/11/entry.html" rel="alternate" type="text/html" title="Entry" /><published>2023-05-11T00:00:00+12:00</published><updated>2023-05-11T00:00:00+12:00</updated><id>http://localhost:4000/2023/05/11/entry</id><content type="html" xml:base="http://localhost:4000/2023/05/11/entry.html"><![CDATA[<h1 id="reflective-journal---day-2--software-development-final-project">Reflective Journal - Day 2- Software Development Final Project</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p>After first meeting yesterday I was tasked with setting up our environment for managing the project and creating the Team Contract.</p>
+
+<h2 id="project-description">Project Description</h2>
+
+<p>Team DDT - MERN Stack Web App for Solar Panel Company focusing on a Stock Inventory system.</p>
+
+<h2 id="progress-made">Progress Made</h2>
+<ul>
+  <li>Create first draft of contract</li>
+  <li>Initialised collaboration + communication
+    <ul>
+      <li>Github</li>
+      <li>Trello</li>
+      <li>Teams Channel with Tutor</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="challenges-faced">Challenges Faced</h2>
+
+<ul>
+  <li>Deciding on method for Scrum, previously in groups it was quite unstructured and often I had to take charge. I wanted to make this project more agile and Me and Mariano will share Scrum Master role depending on agenda and who is more appropriate at the time. So important to make a template of meetings so we are alligned and consistant.</li>
+</ul>
+
+<h2 id="next-steps">Next Steps</h2>
+
+<ul>
+  <li>Set Agenda for first Scrum meeting on Monday.</li>
+  <li>Develop plan for Scrum Meetings</li>
+  <li>Finalize contract</li>
+  <li>Discuss Client Meeting</li>
+</ul>
+
+<p>Looking forward to kicking the project into action next week.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Reflective Journal - Day 2- Software Development Final Project]]></summary></entry><entry><title type="html">Entry</title><link href="http://localhost:4000/2023/05/10/entry.html" rel="alternate" type="text/html" title="Entry" /><published>2023-05-10T00:00:00+12:00</published><updated>2023-05-10T00:00:00+12:00</updated><id>http://localhost:4000/2023/05/10/entry</id><content type="html" xml:base="http://localhost:4000/2023/05/10/entry.html"><![CDATA[<h1 id="reflective-journal---day-1--software-development-final-project">Reflective Journal - Day 1- Software Development Final Project</h1>
+
+<h2 id="overview">Overview</h2>
+<p>Today was first class for IT6041-Final Project for my Software Development course. This is an opportunity to showcase the knowledge and skills I’ve acquired over the last two years. This reflective journal will show my progress, challeneges, and insights during the project. I am using Jekyll and Github pages to further my skillset whilst familiarising myself with new tools.</p>
+
+<h2 id="project-description">Project Description</h2>
+
+<p>The final project consists of a Project Proposal, Project Execution, Project Presentation and Reflection.</p>
+
+<p>Steps of the project are:</p>
+<ol>
+  <li>Create a proposal. As a group, you will select the problem from the suggested areas. You may choose from the three sets of sample requirements or come up with your own. It is up to your group which one you choose. You will have some freedom within the set of requirements to make your own decisions on most aspects of the solution.</li>
+  <li>Execute the proposed solution. This will involve implementing specific features in each of the applications, project management, working in multiple development environments, and arranging regular client meetings.</li>
+  <li>Present the solution. Your team will present the solution to your client and peers.</li>
+</ol>
+
+<p>As a team you must decide on the solution that would address one or more of the following:</p>
+<ol>
+  <li>sustainability,</li>
+  <li>equity,</li>
+  <li>social or contemporary cultural issues.</li>
+</ol>
+
+<p>The solution should include one or more of the following:</p>
+
+<ol>
+  <li>mobile app</li>
+  <li>website</li>
+  <li>game</li>
+</ol>
+
+<h2 id="progress-made">Progress Made</h2>
+<ul>
+  <li>Formed a group with Mariano</li>
+  <li>Held a brainstorm session to discuss the project in detail</li>
+  <li>Results:
+    <ul>
+      <li>Came up with Team Name</li>
+      <li>Discussed potential project ideas and finalised a choice</li>
+      <li>Agreed on Communication, Team Member Goals, Technology, Team Contract</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="challenges-faced">Challenges Faced</h2>
+
+<p>Project idea was daunting given the topics we had to implement and we had only a couple of hours to form an idea. After picking through a final idea from myself and one from Mariano we further discussed Marianos and came up with a slight variation on Mariano’s idea adapting to fit his brothers company and thus meeting criteria of sustainability. A stock inventory web app for a solar panel company.</p>
+
+<h2 id="next-steps">Next Steps</h2>
+
+<ol>
+  <li>I will oversee project management setup.
+    <ul>
+      <li>Team Contract</li>
+      <li>Set up Collaboration Tools + Channels</li>
+    </ul>
+  </li>
+  <li>Mariano will approach brother to elicit more information.</li>
+  <li>Set Agenda for first Scrum on Monday.</li>
+</ol>
+
+<p>Super happy with group, Me and Mariano complement each other well with equivalent skill levels and knowledge, outlook and ambitions.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Reflective Journal - Day 1- Software Development Final Project]]></summary></entry></feed>
